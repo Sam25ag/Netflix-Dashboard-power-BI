@@ -2,7 +2,7 @@
 
 Welcome to the **Netflix Movies & TV Shows Dashboard** project! This interactive Power BI dashboard offers a comprehensive view of Netflix’s content catalog over time. The dashboard allows users to explore key insights across genres, ratings, content types, release years, and more.
 
-![Netflix Dashboard Preview](./Netflix%20Movies%20and%20TV%20Shows%20Dashboard.png)
+![Netflix Dashboard Preview](Netflix Dashboard.png)
 
 ---
 
